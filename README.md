@@ -13,7 +13,7 @@
   <a href="mailto:coder.ncs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   </a>
-
+<div align="left">
 <h1> Sobre mim </h1>
 <p> 🚀 Sou uma entusiasta de tecnologia e Analista de Sistemas em formação (4º período), com background em Administração, tenho mais de 8 anos de experiência no setor financeiro de uma empresa de tecnologia, onde liderei o faturamento e contas a receber. Tenho domínio de ferramentas como Excel, Trello, Monday, CRM - Salesforce e ERP - Pirâmide.</p>
 
