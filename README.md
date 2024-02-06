@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   </a>
 
-  <h1 align="left" style="font-family: 'Courier New', monospace; color: #4CAF50;">Contador de Visitas</h1>
-
+  <h6 align="left" style="font-family: 'Courier New', monospace; color: #4CAF50;">Contador de Visitas</h6>
   <p align="left">
     <img align="left" src="https://profile-counter.glitch.me/ntlcs/count.svg" />
   </p>
