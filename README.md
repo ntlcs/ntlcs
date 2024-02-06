@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">   Contador de Visitas </p>
+
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ntlcs/count.svg" /></p>
