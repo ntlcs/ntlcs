@@ -1,7 +1,4 @@
 
-
-### Hi there 👋
-
 <a href="https://github.com/ntlcs">
 	<img src="welcome.png" alt = "welcome">
 </a>
