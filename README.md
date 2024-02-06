@@ -3,8 +3,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/ntlcs">
-	<img src"![welcome](https://github.com/ntlcs/ntlcs/assets/116643443/831142d5-48c1-48a7-bf0a-a29f34fae505)
- ">
+	<img src="welcome.png" alt = "welcome">
 </a>
 
 <!--
