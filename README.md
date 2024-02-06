@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ntlcs">
-    <img src="welcome.png" alt="welcome" width="400">
+    <img src="welcome.png" alt="welcome" width="800">
     
   </a>
 
