@@ -52,13 +52,14 @@ Três livros que gostei bastante foram:
 <br>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/ntlcs" style="flex: 1;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
   </a>
 
   <a href="https://github.com/ntlcs" style="flex: 1;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=donut-vertical&theme=transparent" alt="Top Langs">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=compact&theme=transparent" alt="Top Langs">
   </a>
 </div>
+
  </p>
  <br>
   
