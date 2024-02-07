@@ -50,9 +50,9 @@ Três livros que gostei bastante foram:
 
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ntlcs=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href=” https://github.com/ntlcs”>
+<img height=”160em” src=https://github-readme-stats.vercel.app/api?username=ntlcs)](https://github.com/ntlcs/github-readme-stats)/>
 
-   
  </p>
  <br>
   
