@@ -21,6 +21,34 @@
   <p>🌎 Sempre aberta a oportunidades que valorizem inovação e crescimento. Vamos nos conectar e colaborar para compartilhar ideias e oportunidades!</p>
     
   <br>
+
+ <h1> 📌 Para além das linhas de código </h1>
+  <p>
+
+🎬 Amo ver filmes e séries
+Top 3 filmes:
+- O Auto da Compadecida
+- Um lugar chamado Nothing Hills
+- O diabo veste Prada
+
+Top 3 Séries:
+- The Boys
+- Mad Men
+- The Office
+
+📚 Estou cada dia mais dedicada à leitura:
+Três livros que gostei bastante:
+- O Caçador de Pipas, Khaled Hosseini
+- Dom Casmurro, Machado de Assis (Traiu?)
+- Senhora, José de Alencar
+
+📖 Atualmente tenho a meta de um livro por mês para 2024:
+Janeiro – Emma, Jane Austen ✔
+Fevereiro - A batalha do apocalipse, Eduardo Spohr ▶"
+
+   
+ </p>
+  
   <p align="left">
     <img align="left" src="https://profile-counter.glitch.me/ntlcs/count.svg" height="20" />
   </p>
