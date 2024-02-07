@@ -56,7 +56,7 @@ Três livros que gostei bastante foram:
   </a>
 
   <a href="https://github.com/ntlcs" style="flex: 1;">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=compact&theme=transparent" alt="Top Langs">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=compact&theme=transparent" alt="Top Langs">
   </a>
 </div>
 
