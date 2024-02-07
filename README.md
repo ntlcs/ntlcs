@@ -48,6 +48,10 @@ Três livros que gostei bastante foram:
 - Janeiro – Emma, Jane Austen ✔
 - Fevereiro - A batalha do apocalipse, Eduardo Spohr ▶
 
+
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ntlcs=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
    
  </p>
  <br>
