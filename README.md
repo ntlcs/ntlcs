@@ -43,11 +43,12 @@ Três livros que gostei bastante:
 - Senhora, José de Alencar
 
 📖 Atualmente tenho a meta de um livro por mês para 2024:
-Janeiro – Emma, Jane Austen ✔
-Fevereiro - A batalha do apocalipse, Eduardo Spohr ▶"
+- Janeiro – Emma, Jane Austen ✔
+- Fevereiro - A batalha do apocalipse, Eduardo Spohr ▶"
 
    
  </p>
+ <br>
   
   <p align="left">
     <img align="left" src="https://profile-counter.glitch.me/ntlcs/count.svg" height="20" />
