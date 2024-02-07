@@ -51,8 +51,11 @@ Três livros que gostei bastante foram:
 
 <br>
 <a href="https://github.com/ntlcs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
  </p>
  <br>
