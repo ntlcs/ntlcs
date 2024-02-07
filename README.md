@@ -50,8 +50,9 @@ Três livros que gostei bastante foram:
 
 
 <br>
-<a href=” https://github.com/ntlcs”>
-<img height=”160em” src=https://github-readme-stats.vercel.app/api?username=ntlcs)](https://github.com/ntlcs/github-readme-stats)/>
+<a href="https://github.com/ntlcs">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent">
+</a>
 
  </p>
  <br>
