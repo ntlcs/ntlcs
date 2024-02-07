@@ -50,12 +50,15 @@ Três livros que gostei bastante foram:
 
 
 <br>
-<a href="https://github.com/ntlcs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/ntlcs">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/ntlcs">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=donut-vertical&theme=transparent" alt="Top Langs">
+  </a>
+</div>
 
  </p>
  <br>
