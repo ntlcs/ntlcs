@@ -44,7 +44,7 @@ Três livros que gostei bastante:
 
 📖 Atualmente tenho a meta de um livro por mês para 2024:
 - Janeiro – Emma, Jane Austen ✔
-- Fevereiro - A batalha do apocalipse, Eduardo Spohr ▶"
+- Fevereiro - A batalha do apocalipse, Eduardo Spohr ▶
 
    
  </p>
