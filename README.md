@@ -38,7 +38,8 @@ Top 3 Séries:
 - The Office
 
 📚 Estou cada dia mais dedicada à leitura:
-Três livros que gostei bastante:
+
+Três livros que gostei bastante foram:
 - O Caçador de Pipas, Khaled Hosseini
 - Dom Casmurro, Machado de Assis (Traiu?)
 - Senhora, José de Alencar
