@@ -14,6 +14,18 @@
   </a>
 </div>
 
+<div align="center">
+  <h2> Tecnologias que estou aprendendo:<h2>
+ <a> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"target="_blank"> 
+ </a>
+  <a >
+    <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"> 
+  </a>
+    <a>
+      
+    </a>
+</div>
+
 <div align="left">
   <h1> 📌 Sobre mim </h1>
   <p> 🚀 Sou uma entusiasta de tecnologia e Analista de Sistemas em formação (4º período), com background em Administração, tenho mais de 8 anos de experiência no setor financeiro de uma empresa de tecnologia, onde liderei o faturamento e contas a receber. Tenho domínio     de ferramentas como Excel, Trello, Monday, CRM - Salesforce e ERP - Pirâmide.</p>
