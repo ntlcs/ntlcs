@@ -64,10 +64,10 @@ Três livros que gostei bastante foram:
 <br>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/ntlcs" style="flex: 1;">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent" alt="Estatísticas do GitHub">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent&cache_seconds=3600" alt="Estatísticas do GitHub">
   </a>
   <a href="https://github.com/ntlcs" style="flex: 1;">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=compact&theme=transparent" alt="Linguagens Mais Usadas">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=compact&theme=transparent&cache_seconds=3600" alt="Linguagens Mais Usadas">
   </a>
 </div>
 
