@@ -61,17 +61,16 @@ Três livros que gostei bastante foram:
 - Fevereiro - A batalha do apocalipse, Eduardo Spohr✔
 - Março - Persuasão, Jane Austen ▶
 
-
 <br>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/ntlcs" style="flex: 1;">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ntlcs&show_icons=true&theme=transparent" alt="Estatísticas do GitHub">
   </a>
-
   <a href="https://github.com/ntlcs" style="flex: 1;">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=compact&theme=transparent" alt="Top Langs">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntlcs&layout=compact&theme=transparent" alt="Linguagens Mais Usadas">
   </a>
 </div>
+
 
  </p>
  <br>
