@@ -17,7 +17,7 @@
 
 ### 💻 Projetos em Destaque
 
-Aqui estão alguns dos projetos que desenvolvi recentemente, com foco em **Java** e **análise de dados**. Estes projetos demonstram minha evolução prática no desenvolvimento de software e aplicação de conceitos em situações reais:
+Aqui estão alguns dos projetos que desenvolvi recentemente. Estes projetos demonstram minha evolução prática no desenvolvimento de software e aplicação de conceitos em situações reais:
 
 1. **Banco Digital Completo**: Aplicação que simula um banco digital, implementando funcionalidades como contas correntes, poupança, transferências, entre outras. O projeto envolve conceitos de orientação a objetos e uso de bibliotecas Java para operações financeiras. [Ver Repositório](https://github.com/ntlcs/bancodigital.git)
 
