@@ -74,7 +74,7 @@ Atualmente, estou aprofundando minhas habilidades em **design de software** e **
 
 ### 🌱 Vamos Colaborar!
 
-Se você está em busca de uma desenvolvedora Java dedicada ou se tem um projeto onde eu possa contribuir, entre em contato. Estou aberta a oportunidades que desafiem minhas habilidades e me permitam continuar crescendo na área de desenvolvimento de software.
+Se você está em busca de uma desenvolvedora dedicada ou se tem um projeto onde eu possa contribuir, entre em contato. Estou aberta a oportunidades que desafiem minhas habilidades e me permitam continuar crescendo na área de desenvolvimento de software.
 
 ---
 
