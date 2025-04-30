@@ -19,7 +19,7 @@ Sou Analista Front-End, iniciando minha jornada na área de desenvolvimento. Ten
 
 Antes de entrar para a área de tecnologia, atuei por mais de 8 anos no setor financeiro. Essa experiência me ajudou a desenvolver habilidades como organização, atenção aos detalhes e comunicação — que hoje aplico no meu trabalho como desenvolvedora em formação.
 
-## 📘 Atualmente estou aprendendo:
+## 📘 Tecnologias:
 - Conceitos fundamentais de HTML, CSS e JavaScript
 - Como estruturar páginas simples
 - Uso do Git e GitHub para versionamento
