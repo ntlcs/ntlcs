@@ -7,58 +7,32 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
   </a>
 
-  <a href="https://ntlcs.github.io/portfolioncs/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> 
-  </a>
 </div>
 
 
 ---
 
-### 💻 Projetos em Destaque
+# 👩‍💻 Analista Front-End 
 
-Aqui estão alguns dos projetos que desenvolvi recentemente. Estes projetos demonstram minha evolução prática no desenvolvimento de software e aplicação de conceitos em situações reais:
 
-1. **Banco Digital Completo**: Aplicação que simula um banco digital, implementando funcionalidades como contas correntes, poupança, transferências, entre outras. O projeto envolve conceitos de orientação a objetos e uso de bibliotecas Java para operações financeiras. [Ver Repositório](https://github.com/ntlcs/bancodigital.git)
+Sou Analista Front-End, iniciando minha jornada na área de desenvolvimento. Tenho conhecimentos básicos em **HTML**, **CSS** e **JavaScript**, e estou aprendendo no dia a dia como construir páginas simples, organizadas e com foco na estrutura e legibilidade do código.
 
-2. **Desafio Google Analytics (Empresa fictícia Cyclistic - Programa de Marketing)**: Projeto de análise de dados com foco em marketing, utilizando o Google Analytics para extrair insights valiosos sobre o uso de bicicletas por membros anuais e usuários casuais. [Ver Repositório](https://github.com/ntlcs/desafio_google_analytics_01cyclistic.git)
+Antes de entrar para a área de tecnologia, atuei por mais de 8 anos no setor financeiro. Essa experiência me ajudou a desenvolver habilidades como organização, atenção aos detalhes e comunicação — que hoje aplico no meu trabalho como desenvolvedora em formação.
 
-3. **Literalura**: API para busca de livros, desenvolvida em Java, utilizando princípios de arquitetura limpa e boas práticas de desenvolvimento backend. O projeto explora a integração com diferentes fontes de dados literários e oferece uma interface simples para consultas. [Ver Repositório](https://github.com/ntlcs/LiterAlura.git)
+## 📘 Atualmente estou aprendendo:
+- Conceitos fundamentais de HTML, CSS e JavaScript
+- Como estruturar páginas simples
+- Uso do Git e GitHub para versionamento
+- Lógica de programação básica
 
----
+## 💻 Ferramentas que uso:
+- Visual Studio Code
+- Git e GitHub
+- Navegador (DevTools)
 
-### 🚀 Habilidades Técnicas
 
-Durante minha jornada na programação, venho desenvolvendo expertise em diversas tecnologias, com foco em backend e análise de dados. Minhas principais habilidades incluem:
+Este espaço no GitHub é um reflexo da minha caminhada como iniciante em front-end. Estou documentando meus estudos e projetos simples enquanto desenvolvo minhas habilidades. Obrigada por acompanhar! 😊
 
-- **Java**: Desenvolvimento de sistemas backend e criação de APIs escaláveis.
-- **Python**: Manipulação e análise de dados, com uso de bibliotecas como pandas e Matplotlib.
-- **SQL**: Consultas complexas, modelagem de dados e integração com bancos de dados relacionais.
-- **Spring Boot**: Desenvolvimento de aplicações web robustas e seguras.
-- **JavaScript**: Integração com front-end e manipulação de dados para criação de interfaces interativas.
-
----
-
-### 📈 Estatísticas Reais
-
-Minha jornada não é mais sobre "iniciar", mas sim sobre **construir e evoluir**. Com projetos práticos e contribuições contínuas para a comunidade, estou transformando minha paixão pela programação em **resultados tangíveis**.
-
----
-
-### 📚 Aprendizado Contínuo
-
-Estou sempre em busca de novas formas de ampliar meu conhecimento e aperfeiçoar minhas habilidades. No momento, estou focada em:
-
-- **Git/GitHub**: Controle de versão e trabalho colaborativo em projetos de código aberto.
-- **Design de Software**: Melhoria nas práticas de design e arquitetura de sistemas.
-
----
-
-### 🎯 Objetivos Atuais
-
-Atualmente, estou aprofundando minhas habilidades em **design de software** e **arquitetura de microservices**, e me preparando para certificações em Java. Também estou em busca de oportunidades para colaborar em projetos open-source e continuar aprendendo e contribuindo com a comunidade de desenvolvedores.
-
----
 
 <div align="center">
   <h2>Estatísticas do GitHub:</h2>
@@ -70,17 +44,6 @@ Atualmente, estou aprofundando minhas habilidades em **design de software** e **
   </a>
 </div>
 
----
-
-### 🌱 Vamos Colaborar!
-
-Se você está em busca de uma desenvolvedora dedicada ou se tem um projeto onde eu possa contribuir, entre em contato. Estou aberta a oportunidades que desafiem minhas habilidades e me permitam continuar crescendo na área de desenvolvimento de software.
-
----
-
-### 📩 Contato:
-- LinkedIn: [@nataliaasilva](https://www.linkedin.com/in/nataliaasilva/)
-- Email: [coder.ncs@gmail.com](mailto:coder.ncs@gmail.com)
 
 ---
 
