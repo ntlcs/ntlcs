@@ -31,7 +31,7 @@ Antes de entrar para a área de tecnologia, atuei por mais de 8 anos no setor fi
 - Navegador (DevTools)
 
 
-Este espaço no GitHub é um reflexo da minha caminhada como iniciante em front-end. Estou documentando meus estudos e projetos simples enquanto desenvolvo minhas habilidades. Obrigada por acompanhar! 😊
+Este GitHub reflete minha caminhada. Aqui, documento meus estudos e projetos simples enquanto desenvolvo minhas habilidades. Obrigada por acompanhar! 😊
 
 
 <div align="center">
